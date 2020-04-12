@@ -22,3 +22,10 @@ Windows - Follow this link https://ourcodeworld.com/articles/read/348/getting-st
 1. cd client/file-upload
 2. npm i
 3. npm run dev
+
+I've given option for both text as well as image data extraction. If you click on 'Try Image' image file selection will come and 'Try File' will give option for uploading file(pdf/docx).
+
+For extracting text from documents(PDF/DOCX) you can upload file and hit submit.
+
+For extracting text from image click on 'Try Image'
+Then you can select the file and hit submit.
